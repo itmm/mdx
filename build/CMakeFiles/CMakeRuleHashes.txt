@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+50f55bbb35893fe5f794db97e42008da ../mdx.cpp

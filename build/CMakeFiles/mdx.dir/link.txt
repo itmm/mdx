@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mdx.dir/mdx.cpp.o -o mdx  lazy-write/liblazy-write.a -lstdc++fs 

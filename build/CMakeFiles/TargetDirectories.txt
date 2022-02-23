@@ -1,0 +1,6 @@
+/home/timm/prj/mdx/build/CMakeFiles/rebuild_cache.dir
+/home/timm/prj/mdx/build/CMakeFiles/edit_cache.dir
+/home/timm/prj/mdx/build/CMakeFiles/mdx.dir
+/home/timm/prj/mdx/build/lazy-write/CMakeFiles/rebuild_cache.dir
+/home/timm/prj/mdx/build/lazy-write/CMakeFiles/edit_cache.dir
+/home/timm/prj/mdx/build/lazy-write/CMakeFiles/lazy-write.dir
