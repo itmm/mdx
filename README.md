@@ -1,7 +1,7 @@
 # `mdx`
 
 Command line tool to extract source code from a Markdown file and replace the
-code blocks by links to the generated images. The Markdown is read from
+code blocks by links to the generated SVG-images. The Markdown is read from
 standard in, and the transformed Markdown file is written to standard output.
 The files are generated in a special folder (defaulting to `img`).
 

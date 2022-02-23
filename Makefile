@@ -1,7 +1,7 @@
 .PHONY: imgs clean
 
 test.md: src/test.md
-	build/mdx <$^ >$@
+	build/mdx <$^ | lazy-put $@
 	$(MAKE) imgs
 
 IMG_in = $(wildcard img/*.graphviz)
