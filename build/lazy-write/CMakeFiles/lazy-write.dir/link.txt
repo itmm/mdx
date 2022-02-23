@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblazy-write.a CMakeFiles/lazy-write.dir/lazy-write.cpp.o
-/usr/bin/ranlib liblazy-write.a
