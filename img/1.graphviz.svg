@@ -8,16 +8,13 @@
  viewBox="0.00 0.00 62.00 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs><style>
 	svg: {
-		background-color: white;
+		background-color: transparent;
 		color-scheme: light dark;
 		ellipse, path, polygon {
 			stroke: black;
 		}
 		text, polygon {
 			fill: black;
-		}
-		svg {
-			background-color: transparent;
 		}
 	}
 	@media (prefers-color-scheme:dark) {
