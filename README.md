@@ -7,10 +7,15 @@ The files are generated in a special folder (defaulting to `img`).
 
 Command line options can specify the name of the output folder (`--out-dir=...`)
 and the code languages that should be extracted (`--extract=..:..`). The default
-languages that are extracted are `graphviz`, `svg`, and `plantuml`. Only
-`--help` is allowed as another option.
+languages that are extracted are `graphviz`, `svg`, and `plantuml`. Multiple
+languages can be separated by colons. Another argument `--extension=` specifies
+the extension that is added to the link names in the transcoded Markdown
+output. The default extension is `.svg`. Only `--help` is allowed as another
+option.
 
-`cmake` is used for building this small tool in C++17.
+`cmake` is used for building this small tool in C++17. The program itself is
+written using [https://github.com/itmm/md-patcher](md-patcher). This tool is
+used to extract the source code from the Markdown files.
 
 # Detailed Design
 
