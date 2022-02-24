@@ -16,11 +16,11 @@
 		text, polygon {
 			fill: black;
 		}
+		svg {
+			background-color: transparent;
+		}
 	}
 	@media (prefers-color-scheme:dark) {
-		svg {
-			background-color: black;
-		}
 		ellipse, path, polygon {
 			stroke: white;
 		}
