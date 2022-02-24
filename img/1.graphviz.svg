@@ -7,15 +7,15 @@
 <svg width="62pt" height="116pt"
  viewBox="0.00 0.00 62.00 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs><style>
-	svg: {
+	svg {
 		background-color: transparent;
 		color-scheme: light dark;
-		ellipse, path, polygon {
-			stroke: black;
-		}
-		text, polygon {
-			fill: black;
-		}
+	}
+	ellipse, path, polygon {
+		stroke: black;
+	}
+	text, polygon {
+		fill: black;
 	}
 	@media (prefers-color-scheme:dark) {
 		ellipse, path, polygon {
